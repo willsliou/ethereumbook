@@ -1,7 +1,7 @@
 [[intro_chapter]]
 == Ethereum Basics
 
-((("Ethereum (generally)","basics", id="ix_02intro-asciidoc0", range="startofrange")))In this chapter we will start exploring Ethereum, learning how to use wallets, how to create transactions, and also how to run a basic smart contract.
+((("Ethereum (generally)","basics", id="ix_02intro-asciidoc0", range="startofrange")))In this chapter, we will start exploring Ethereum, learn how to use wallets, how to create transactions, and how to run a basic smart contract.
 
 [[ether_units]]
 === Ether Currency Units
